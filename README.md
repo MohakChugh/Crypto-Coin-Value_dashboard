@@ -17,4 +17,4 @@ streamlit run main.py
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/MohakChugh/Crypto-Data-Analyser/master/assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/MohakChugh/Crypto-Coin-Value_dashboard/master/assets/demo.gif)
